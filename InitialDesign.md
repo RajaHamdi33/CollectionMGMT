@@ -1,8 +1,7 @@
 # Design Document Overview:
 
 **Title:** Ticket Collection Managment System  
-**Student:** Raja Hamdi
-**Course:** COSC 2436 Fall 23  
+**By:** Raja Hamdi
 
 ## Introduction:
 In this Initial Design Document We will go over all aspects of the program so that we have a good idea on how to build our program from the ground up. From the Data Structures and Algorithms we will use to how we will be able to react with our program through the User Interface. I will be using C++ code to build this program but will leave comments for simplicity. The goal of this program is to create a Collection Catalog System to help store and manage a collection. In this case I will be collecting Ticket Stubs. In Part 1 I will simply define object class with attributes and add to them in the coming parts. However this document will review the design of the entire system.
