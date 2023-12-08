@@ -1,2 +1,0 @@
-# CollectionMGMT
-Collection Management System 
