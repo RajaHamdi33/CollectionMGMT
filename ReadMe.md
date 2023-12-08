@@ -1,6 +1,6 @@
 # Ticket Collection Management Program
 
-Welcome to the `Ticket Collection Managment` repository. The goal of this program is to create a collection managment system that will showcase the use of Data structures and a few Algorithms to manage a collection of objects. In this collection managment system I will implement features that will allow us to collect and manage Tickets of our favorite movies, concerts, and other events attended. 
+Welcome to the `Ticket Collection Managment` repository. The goal of this program is to create a collection managment system that will showcase the use of Data structures and a few Algorithms to manage a collection of objects. In this collection managment system I will implement features that will allow us to collect and manage Tickets of our favorite movies, concerts, and other events attended. The User Interface will be a simple command-line enabling the user to add, remove, sort, and search for Tickets in the collection. A .txt file will be included to persist data between sessions and I have included exception handling to deal with bad user input as well as issue reading/writing to file.
 
 ## Overview:
 This program makes use of:
@@ -12,7 +12,17 @@ This program makes use of:
 These Data Structures and Algorithms will be implemeted with our class object `Ticket` to help manage this collection.
 
 ## Included Features:
+The User Interface will be include 7 command-line user inputs from the main menu. See User Manual for more information.
 
+Features of the User Interface included:
+
+1. **View Collection**
+2. **Add New Tickets**
+3. **Delete Tickets**
+4. **Search By Year**
+5. **Search By Rating**
+6. **Sort By Year**
+7. **Sort By Rating**
 
 ## Files Included
 
